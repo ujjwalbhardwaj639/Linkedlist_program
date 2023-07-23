@@ -35,8 +35,8 @@ This repository is licensed under the [MIT License](./LICENSE). You are free to 
 If you have any questions, suggestions, or feedback regarding the linked list programs in this repository, please feel free to reach out to me.
 
 Contact details:
-- Ujjwal: [Your Name]
-- Email: [Your Email Address]
+- Name: [Ujjwal]
+- Email: [ujjwalbhardwaj639]
 - GitHub: [Your GitHub Profile URL]
 
 Please note that while I strive to respond to inquiries promptly, it may take some time to get back to you. Thank you for your understanding.
