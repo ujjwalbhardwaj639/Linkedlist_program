@@ -37,6 +37,5 @@ If you have any questions, suggestions, or feedback regarding the linked list pr
 Contact details:
 - Name: [Ujjwal]
 - Email: [ujjwalbhardwaj639]
-- GitHub: [Your GitHub Profile URL]
 
 Please note that while I strive to respond to inquiries promptly, it may take some time to get back to you. Thank you for your understanding.
